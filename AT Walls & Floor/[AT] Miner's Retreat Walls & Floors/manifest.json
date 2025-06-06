@@ -1,0 +1,12 @@
+{
+  "Name": "[AT] Miner's Retreat Walls & Floors",
+  "Author": "Azathii",
+  "Version": "1.0.0",
+  "Description": "Miner's Retreat walls and floors for Alternative Textures",
+  "UniqueID": "Azathii.QuarryExpansion.WallsFloors.AT",
+  "MinimumApiVersion": "4.0.4",
+  "UpdateKeys": [ "" ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.AlternativeTextures"
+  }
+}
