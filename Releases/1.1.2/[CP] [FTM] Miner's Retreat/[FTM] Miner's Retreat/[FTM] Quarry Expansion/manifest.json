@@ -1,7 +1,7 @@
 {
 	"Name": "[FTM] Miner's Retreat",
 	"Author": "Azathii",
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Description": "Adds an additional ore-spawning mine area to the quarry",
 	"UniqueID": "Azathii.MinersRetreat.FTM",
 	"MinimumApiVersion": "4.0.4",

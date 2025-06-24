@@ -1,7 +1,7 @@
 {
 	"Name": "[FTM] Miner's Retreat - Cinder",
 	"Author": "Azathii",
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Description": "Adds cinder to the extra quarry area when the volcano shortcut is unlocked",
 	"UniqueID": "Azathii.MinersRetreat.FTM.Cinder",
 	"MinimumApiVersion": "4.0.4",

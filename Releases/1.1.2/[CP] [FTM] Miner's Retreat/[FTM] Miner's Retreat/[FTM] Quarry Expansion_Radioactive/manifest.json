@@ -1,7 +1,7 @@
 {
 	"Name": "[FTM] Miner's Retreat - Radioactive",
 	"Author": "Azathii",
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Description": "Adds radioactive ore to the extra quarry area after interacting with the 'Perfection Tracker' in Qi's Walnut Room",
 	"UniqueID": "Azathii.MinersRetreat.FTM.Radioactive",
 	"MinimumApiVersion": "4.0.4",

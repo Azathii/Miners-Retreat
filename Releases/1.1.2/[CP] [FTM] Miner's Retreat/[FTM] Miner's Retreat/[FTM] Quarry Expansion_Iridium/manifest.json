@@ -1,7 +1,7 @@
 {
 	"Name": "[FTM] Miner's Retreat - Iridium",
 	"Author": "Azathii",
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Description": "Adds iridium ore to the extra quarry area after unlocking Skull Cavern",
 	"UniqueID": "Azathii.MinersRetreat.FTM.Iridium",
 	"MinimumApiVersion": "4.0.4",

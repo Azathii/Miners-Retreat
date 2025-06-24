@@ -1,7 +1,7 @@
 {
 	"Name": "[FTM] Miner's Retreat - Bone Nodes",
 	"Author": "Azathii",
-	"Version": "1.1.1",
+	"Version": "1.1.2",
 	"Description": "Adds bone nodes to the extra quarry area after repairing the island dig site bridge",
 	"UniqueID": "Azathii.MinersRetreat.FTM.Bone",
 	"MinimumApiVersion": "4.0.4",

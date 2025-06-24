@@ -1,7 +1,7 @@
 {
     "Name": "Miner's Retreat",
     "Author": "Azathii",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "Description": "Adds an additional player home to the quarry, located inside a new ore-spawning cave area",
     "UniqueID": "Azathii.MinersRetreat",
     "MinimumApiVersion": "4.0.4",
